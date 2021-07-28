@@ -1,9 +1,10 @@
 ![Python](https://telegra.ph/file/79fa4b83c7b995b16722c.jpg)
 <i>Learn Python Userbot Github Coding Data Program</i>
 
-• Nafis Qurthubi 
-• 15 y.o
-• Newbie Python
+* Nafis Qurthubi 
+* 15 y.o
+* Newbie Python
+* Jakarta Selatan
 
 ## 📨 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/PacarFerdilla) 
 <br>

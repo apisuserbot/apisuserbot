@@ -12,11 +12,11 @@
 <br>
 
 ![Profile Dilihat](https://komarev.com/ghpvc/?username=apisuserbot&color=blue&style=flat-square&label=Profile+Dilihat)
-### Stats
+### Statistik
 <p align="center"><a href="https://github.com/apisuserbot"><img src="https://github-readme-stats.vercel.app/api?username=apisuserbot&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/apisuserbot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apisuserbot&theme=radical&layout=compact"></a></p> 
 
-## Repo Stats
+## Repo Statistik
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=King-Userbot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Music-King&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=tgvc-King&theme=dark)
@@ -44,3 +44,7 @@
 ![Metrics](https://metrics.lecoq.io/apisuserbot?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
+
+# My Team Project
+
+* [TeamDragons](https://github.com/TeamDragons) - Developer

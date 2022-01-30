@@ -17,10 +17,7 @@
 <p align="center"><a href="https://github.com/apisuserbot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apisuserbot&theme=radical&layout=compact"></a></p> 
 
 ## Repo Statistik
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=King-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Music-King&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=tgvc-King&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Manager-King&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Killua-Robot&theme=dark)
 
    <h3 align="left">Bahasa dan Code</h3>
 <p align="left"> <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -29,7 +26,7 @@
 ### Mari terhubung!
 <p>
     <a href="https://saweria.co/DonasiDeveloper" target="blank"><img src="https://img.shields.io/badge/👑 Donasi Developer 👑-30302f?style=flat&logo=donasi" /></a>
-    <a href="https://instagram.com/apis_goodboy" target="blank"><img src="https://img.shields.io/badge/Apis Goodboy-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/apisqrtbi_" target="blank"><img src="https://img.shields.io/badge/Apis-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>

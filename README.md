@@ -1,5 +1,5 @@
-![Python](https://telegra.ph/file/79fa4b83c7b995b16722c.jpg)
-<i>Learn Python Userbot Github Coding Data Program</i>
+![Apis](https://telegra.ph/file/33141bb0561844d4a0480.jpg)
+👋🏻 Hi , I'm learning to project github
 
 # My Profile
 
@@ -8,7 +8,7 @@
 * Newbie Python
 * Jakarta Selatan
 
-## 📨 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/PacarFerdilla) 
+## 📨 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/tzypis) 
 <br>
 
 ![Profile Dilihat](https://komarev.com/ghpvc/?username=apisuserbot&color=blue&style=flat-square&label=Profile+Dilihat)
@@ -18,6 +18,7 @@
 
 ## Repo Statistik
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Killua-Robot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot &repo=Userbot-Telegram&theme=white)
 
    <h3 align="left">Bahasa dan Code</h3>
 <p align="left"> <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -26,7 +27,7 @@
 ### Mari terhubung!
 <p>
     <a href="https://saweria.co/DonasiDeveloper" target="blank"><img src="https://img.shields.io/badge/👑 Donasi Developer 👑-30302f?style=flat&logo=donasi" /></a>
-    <a href="https://instagram.com/apisqrtbi_" target="blank"><img src="https://img.shields.io/badge/Apis-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/apisqrtbi_" target="blank"><img src="https://img.shields.io/badge/X-Pis-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>

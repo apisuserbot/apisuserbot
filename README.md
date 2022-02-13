@@ -1,5 +1,6 @@
 ![Apis](https://telegra.ph/file/33141bb0561844d4a0480.jpg)
-👋🏻 Hi , I'm learning to project github
+
+👋🏻 Hi , I'm learning to project github for repository me
 
 # My Profile
 
@@ -18,7 +19,7 @@
 
 ## Repo Statistik
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Killua-Robot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot &repo=Userbot-Telegram&theme=white)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot &repo=Userbot-Telegram&theme=dark)
 
    <h3 align="left">Bahasa dan Code</h3>
 <p align="left"> <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

@@ -1,6 +1,6 @@
 ![Apis](https://telegra.ph/file/c48d71e43557485f94474.jpg)
 
-👋🏻 <b>Hi , I'm learning to project github for repository me</b>
+👋🏻 Hi , I'm learning to project github for repository me
 
 # My Profile
 

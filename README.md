@@ -5,7 +5,7 @@
 # My Profile
 
 * Nafis Qurthubi 
-* 16 y.o
+* 17 y.o
 * Newbie Python
 * Jakarta Selatan
 

@@ -18,8 +18,7 @@
 <p align="center"><a href="https://github.com/apisuserbot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apisuserbot&theme=radical&layout=compact"></a></p> 
 
 ## Repo Statistik
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Killua-Robot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Userbot-Telegram&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=apisuserbot.github.io&theme=dark)
 
    <h3 align="left">Bahasa dan Code</h3>
 <p align="left"> <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
